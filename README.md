@@ -4,7 +4,7 @@ A demonstration project to portray how to share data across multiple api endpoin
 
 ## Important Note
 
-The repository contains two branches, the main branch and the tutorial branch. The main branch contains the end product of the tutorial while the tutorial branch will allow you to follow along with the tutorial.
+The repository contains two branches, the main branch and the tutorial branch. The main branch contains the end product of the tutorial while the tutorial branch will enable you to follow along with the tutorial.
 
 ## Project Setup
 
