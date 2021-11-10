@@ -20,7 +20,5 @@ Route::middleware('auth:sanctum')->get('/user', function (Request $request) {
     return $request->user();
 });
 
-Route::middleware(['notificationcount'])->group(function () {
-    Route::get('/{id}/notifications', [NotificationsController::class, 'getNotifications'])->name('getNotifications');
-    Route::get('/{id}/activities', [ActivitiesController::class, 'getActivities'])->name('getActivities');
-});
+Route::get('/{id}/notifications', [NotificationsController::class, 'getNotifications'])->name('getNotifications');
+Route::get('/{id}/activities', [ActivitiesController::class, 'getActivities'])->name('getActivities');
