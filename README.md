@@ -8,7 +8,7 @@ The repository contains two branches, the main branch and the tutorial branch. T
 
 ## Project Setup
 
-1. Clone the project
+1. Clone the project `git clone git@github.com:kiptoo-korir/data-sharing-api-tutorial.git`
 2. Setup the environment variables and setup the database
 3. Install the dependencies using composer `composer update`
 4. Migrate the tables `php artisan migrate`
