@@ -1,6 +1,6 @@
 # Data Sharing Api Project
 
-A demonstration project to portray how to share data across multiple api endpoints in a laravel app. The tutorial can be found on medium.
+A demonstration project to portray how to share data across multiple api endpoints in a laravel app. The tutorial, written on medium, can be found [here](https://kiptookorir.medium.com/how-to-share-data-across-multiple-api-endpoints-in-laravel-217c542972df).
 
 ## Important Note
 
